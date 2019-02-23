@@ -1,0 +1,79 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+.head{
+    background-color: #4619bc;
+}
+.logo{
+    margin: auto;
+    height: 60px;
+    width: 60px;    
+    background-color: #ebc655;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+span{
+  color:#ebc655;  
+}
+ul li{
+    color:#4619bc;
+}
+#edit{
+    padding: 15px;
+   font-size: 18px;
+    background-color:#ebc655;
+    cursor:pointer;
+    position: absolute;
+    top: 20px;
+    right:20px;
+}
+
+#editnot{
+   padding: 16px;
+   font-size: 18px;
+    background-color:#ebc655;
+    cursor:pointer;
+    position: absolute;
+    top: 90px;
+    right:20px;  
+}
+#edit i{
+     color:#7e5dd0 !important;
+    letter-spacing: 2px !important;
+    font-weight: 700;
+    font-size: 18px;
+}
+#editnot i{
+      color:#7e5dd0 !important;
+    letter-spacing: 2px !important;
+    font-weight: 700;
+    font-size: 18px;
+}
+.main p{
+    color:#7e5dd0;
+    font-size: 16px;
+}
+.main h1{
+    font-size: 22px;
+    font-weight: 700;
+    color:#4619bc;
+}
+.underline{
+    height: 4px;
+    width: 25px;
+    background-color: #ebc655;
+}
+.logo h4{
+    color:#4619bc;
+}
+.head h1{
+    color: #ebc655;
+    letter-spacing: 5px;
+}
+.head p{
+    color:#ebc655;
+    letter-spacing: 5px;
+    font-size: 12px;
+}
