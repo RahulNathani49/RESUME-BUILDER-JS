@@ -1,5 +1,13 @@
+@media print{
+    body{
+        -webkit-print-color-adjust: exact !important;
+    }
+
+} 
+
 body{
     font-family: 'Varela Round', sans-serif;
+
 }
 .head{
     background-color: #4619bc;
